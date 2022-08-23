@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="assignment_1.cs" />
+    <Compile Remove="assignment_2.cs" />
+    <Compile Remove="assignment_3.cs" />
+    <Compile Remove="assignment_4.cs" />
+    <Compile Remove="assignment_5.cs" />
+    <Compile Remove="assignment_6.cs" />
+    <Compile Remove="assignment_7.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="assignment_3.cs" />
+    <None Include="assignment_1.cs" />
+    <None Include="assignment_2.cs" />
+    <None Include="assignment_4.cs" />
+    <None Include="assignment_5.cs" />
+    <None Include="assignment_6.cs" />
+    <None Include="assignment_7.cs" />
+  </ItemGroup>
+
+</Project>

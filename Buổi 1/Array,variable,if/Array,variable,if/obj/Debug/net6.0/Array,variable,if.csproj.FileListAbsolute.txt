@@ -1,0 +1,15 @@
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\bin\Debug\net6.0\Array,variable,if.exe
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\bin\Debug\net6.0\Array,variable,if.deps.json
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\bin\Debug\net6.0\Array,variable,if.runtimeconfig.json
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\bin\Debug\net6.0\Array,variable,if.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\bin\Debug\net6.0\Array,variable,if.pdb
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\obj\Debug\net6.0\Array,variable,if.csproj.AssemblyReference.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\obj\Debug\net6.0\Array,variable,if.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\obj\Debug\net6.0\Array,variable,if.AssemblyInfoInputs.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\obj\Debug\net6.0\Array,variable,if.AssemblyInfo.cs
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\obj\Debug\net6.0\Array,variable,if.csproj.CoreCompileInputs.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\obj\Debug\net6.0\Array,variable,if.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\obj\Debug\net6.0\refint\Array,variable,if.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\obj\Debug\net6.0\Array,variable,if.pdb
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\obj\Debug\net6.0\Array,variable,if.genruntimeconfig.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 1\Array,variable,if\Array,variable,if\obj\Debug\net6.0\ref\Array,variable,if.dll

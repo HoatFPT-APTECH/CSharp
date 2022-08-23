@@ -1,0 +1,15 @@
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\bin\Debug\net6.0\Tham chiếu ref.exe
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\bin\Debug\net6.0\Tham chiếu ref.deps.json
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\bin\Debug\net6.0\Tham chiếu ref.runtimeconfig.json
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\bin\Debug\net6.0\Tham chiếu ref.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\bin\Debug\net6.0\Tham chiếu ref.pdb
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\obj\Debug\net6.0\Tham chiếu ref.csproj.AssemblyReference.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\obj\Debug\net6.0\Tham chiếu ref.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\obj\Debug\net6.0\Tham chiếu ref.AssemblyInfoInputs.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\obj\Debug\net6.0\Tham chiếu ref.AssemblyInfo.cs
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\obj\Debug\net6.0\Tham chiếu ref.csproj.CoreCompileInputs.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\obj\Debug\net6.0\Tham chiếu ref.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\obj\Debug\net6.0\refint\Tham chiếu ref.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\obj\Debug\net6.0\Tham chiếu ref.pdb
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\obj\Debug\net6.0\Tham chiếu ref.genruntimeconfig.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 2\Array\Tham chiếu ref\obj\Debug\net6.0\ref\Tham chiếu ref.dll
