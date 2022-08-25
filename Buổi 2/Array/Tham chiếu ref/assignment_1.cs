@@ -21,11 +21,10 @@ namespace Tham_chiếu_ref
         {
             double delta;
             delta = b * b - 4 * a * c;
-            if (delta < 0)
+            if (delta < 0 || (a == 0 && b == 0 && c != 0))
                 return false;
             else return true;
         }
-      
         
         
         void giaiPTB2(out double x1,out double x2,double a, double b,double c)
@@ -38,6 +37,7 @@ namespace Tham_chiếu_ref
             x1 = (-b - Math.Sqrt(delta)) / (2 * a);
 
             x2 = (-b + Math.Sqrt(delta)) / (2 * a);
+
             if (p.kt(a, b, c) == false)
             {
                 Console.WriteLine("Phương trình vô nghiệm !");
@@ -49,6 +49,10 @@ namespace Tham_chiếu_ref
                 Console.WriteLine("x1= "+x1);
                 Console.WriteLine(" x2= "+x2);
 
+            }
+            else if (a==0&&b==0&&c==0)
+            {
+                Console.WriteLine("Phương trình có vô số nghiệm.");
             }
             else
             {
