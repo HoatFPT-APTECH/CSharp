@@ -1,0 +1,15 @@
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\bin\Debug\net6.0\TinhLuongNV_abstract_interface.exe
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\bin\Debug\net6.0\TinhLuongNV_abstract_interface.deps.json
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\bin\Debug\net6.0\TinhLuongNV_abstract_interface.runtimeconfig.json
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\bin\Debug\net6.0\TinhLuongNV_abstract_interface.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\bin\Debug\net6.0\TinhLuongNV_abstract_interface.pdb
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\obj\Debug\net6.0\TinhLuongNV_abstract_interface.csproj.AssemblyReference.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\obj\Debug\net6.0\TinhLuongNV_abstract_interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\obj\Debug\net6.0\TinhLuongNV_abstract_interface.AssemblyInfoInputs.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\obj\Debug\net6.0\TinhLuongNV_abstract_interface.AssemblyInfo.cs
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\obj\Debug\net6.0\TinhLuongNV_abstract_interface.csproj.CoreCompileInputs.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\obj\Debug\net6.0\TinhLuongNV_abstract_interface.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\obj\Debug\net6.0\refint\TinhLuongNV_abstract_interface.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\obj\Debug\net6.0\TinhLuongNV_abstract_interface.pdb
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\obj\Debug\net6.0\TinhLuongNV_abstract_interface.genruntimeconfig.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\TinhLuongNV_abstract_interface\obj\Debug\net6.0\ref\TinhLuongNV_abstract_interface.dll

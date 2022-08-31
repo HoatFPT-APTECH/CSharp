@@ -1,0 +1,8 @@
+D:\LEARN-IT-T2111E\KY2\C#\Code\Day4\Interface\Bai1_HinhHoc\obj\Debug\Bai1_HinhHoc.csproj.AssemblyReference.cache
+D:\LEARN-IT-T2111E\KY2\C#\Code\Day4\Interface\Bai1_HinhHoc\obj\Debug\Bai1_HinhHoc.csproj.SuggestedBindingRedirects.cache
+D:\LEARN-IT-T2111E\KY2\C#\Code\Day4\Interface\Bai1_HinhHoc\obj\Debug\Bai1_HinhHoc.csproj.CoreCompileInputs.cache
+D:\LEARN-IT-T2111E\KY2\C#\Code\Day4\Interface\Bai1_HinhHoc\bin\Debug\Bai1_HinhHoc.exe.config
+D:\LEARN-IT-T2111E\KY2\C#\Code\Day4\Interface\Bai1_HinhHoc\bin\Debug\Bai1_HinhHoc.exe
+D:\LEARN-IT-T2111E\KY2\C#\Code\Day4\Interface\Bai1_HinhHoc\bin\Debug\Bai1_HinhHoc.pdb
+D:\LEARN-IT-T2111E\KY2\C#\Code\Day4\Interface\Bai1_HinhHoc\obj\Debug\Bai1_HinhHoc.exe
+D:\LEARN-IT-T2111E\KY2\C#\Code\Day4\Interface\Bai1_HinhHoc\obj\Debug\Bai1_HinhHoc.pdb
