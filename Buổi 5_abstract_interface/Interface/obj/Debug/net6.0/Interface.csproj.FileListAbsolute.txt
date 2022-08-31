@@ -1,0 +1,15 @@
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\bin\Debug\net6.0\Interface.exe
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\bin\Debug\net6.0\Interface.deps.json
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\bin\Debug\net6.0\Interface.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\bin\Debug\net6.0\Interface.pdb
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\obj\Debug\net6.0\Interface.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\obj\Debug\net6.0\refint\Interface.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\obj\Debug\net6.0\Interface.pdb
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Buổi 5_abstract_interface\Interface\obj\Debug\net6.0\ref\Interface.dll
