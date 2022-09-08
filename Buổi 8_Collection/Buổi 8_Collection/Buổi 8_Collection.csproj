@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Buổi_8_Collection</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Ass1_Program.cs" />
+    <Compile Remove="Ass2_Dictionary.cs" />
+    <Compile Remove="Ex1_Cylinder.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Ass1_Program.cs" />
+    <None Include="Ass2_Dictionary.cs" />
+    <None Include="Ex1_Cylinder.cs" />
+  </ItemGroup>
+
+</Project>
