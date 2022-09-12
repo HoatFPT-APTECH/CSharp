@@ -1,0 +1,15 @@
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\obj\Debug\net6.0\Examp_CSharp.csproj.AssemblyReference.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\obj\Debug\net6.0\Examp_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\obj\Debug\net6.0\Examp_CSharp.AssemblyInfoInputs.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\obj\Debug\net6.0\Examp_CSharp.AssemblyInfo.cs
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\obj\Debug\net6.0\Examp_CSharp.csproj.CoreCompileInputs.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\bin\Debug\net6.0\Examp_CSharp.exe
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\bin\Debug\net6.0\Examp_CSharp.deps.json
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\bin\Debug\net6.0\Examp_CSharp.runtimeconfig.json
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\bin\Debug\net6.0\Examp_CSharp.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\bin\Debug\net6.0\Examp_CSharp.pdb
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\obj\Debug\net6.0\Examp_CSharp.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\obj\Debug\net6.0\refint\Examp_CSharp.dll
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\obj\Debug\net6.0\Examp_CSharp.pdb
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\obj\Debug\net6.0\Examp_CSharp.genruntimeconfig.cache
+F:\FPT_APTECH\Ki_2\C#\HomeWork\CSharp\Examp_CSharp\Examp_CSharp\obj\Debug\net6.0\ref\Examp_CSharp.dll
